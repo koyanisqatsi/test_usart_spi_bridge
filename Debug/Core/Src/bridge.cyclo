@@ -1,0 +1,10 @@
+../Core/Src/bridge.c:44:6:bridge_enable	7
+../Core/Src/bridge.c:72:6:SpiTxRxTask	7
+../Core/Src/bridge.c:118:6:UsartTxRxTask	7
+../Core/Src/bridge.c:161:6:HAL_SPI_TxCpltCallback	2
+../Core/Src/bridge.c:167:6:HAL_SPI_RxCpltCallback	4
+../Core/Src/bridge.c:180:6:HAL_SPI_RxHalfCpltCallback	4
+../Core/Src/bridge.c:193:6:HAL_UART_TxCpltCallback	2
+../Core/Src/bridge.c:199:6:HAL_UART_RxCpltCallback	4
+../Core/Src/bridge.c:212:6:HAL_UART_RxHalfCpltCallback	4
+../Core/Src/bridge.c:226:13:rxdBufferProcessing	10
